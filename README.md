@@ -4,20 +4,25 @@ clone uber backend
 
 ## Resovlers
 
-### Public Resolvers
+### Public Resolvers:
 
-- [ ] Sign In / Sign Up with facebook
-- [ ] Sign In with Eamil
-- [ ] Start Phone Number Verification
-- [ ] Complete Phone Number Verification
-- [ ] Sign up with Email
+- [x] Sign In / Sign Up with facebook
+- [x] Sign In with Eamil
+- [x] Start Phone Number Verification
+- [x] Complete Phone Number Verification
+- [x] Sign up with Email
 
 ---
+
+### Authentication:
+
+- [x] Generate JWT
+- [x] Verify JWT
 
 ### Priveate Resolvers:
 
 - [ ] Verify Email
-- [ ] Get my Profile
+- [x] Get my Profile
 - [ ] Update my Profile
 - [ ] Toggle Driving Mode
 - [ ] Report location / orientation
